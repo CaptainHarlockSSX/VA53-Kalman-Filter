@@ -4,6 +4,8 @@
 
 University practical work to implement a basic people tracking using predictive Kalman Filter. 
 
+Is has been done for the Course Credits **VA53 - Probabilistic and stochastic models for computer vision** at <u>Université de Technologie de Belfort Montbéliard (FR).</u>
+
 The aim was to try different models (Position, Speed, Acceleration) at different video input framerate.
 
 As the body detection was not the main goal of this work, <u>it has been done roughly and is not fine-tuned for every video input.</u>
