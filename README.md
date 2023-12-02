@@ -14,7 +14,7 @@ The report written for evaluation (in french) as well as the measurements sheet 
 
 The images generated for illustration purpose are under `/img`, where **Green line** is the <u>prediction</u> and **Red line** the <u>detection</u>.
 
-> Note : the input data used in this project has been removed for pirvacy purpose.
+> Note : the input data used in this project has been removed for privacy purpose.
 
 ## How to use
 
